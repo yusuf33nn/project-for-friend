@@ -27,3 +27,6 @@ There are 4 statuses
 - tracked
 - staged
 - modified
+
+Commit messages
+They must be short and informative
