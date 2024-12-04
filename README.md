@@ -20,3 +20,10 @@ this command will show all commits in current branch
 
 HEAD
 every branch has Head commit - usually it is the last commit, but you can change it
+
+Statuses
+There are 4 statuses
+- untracked
+- tracked
+- staged
+- modified
