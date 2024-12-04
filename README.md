@@ -14,3 +14,6 @@ basics! There are other useful commands - first learn this 6
 
 Hash Commit
 Every commit has it own unique hash code
+
+Git log
+this command will show all commits in current branch
