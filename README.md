@@ -11,3 +11,6 @@ as a developer - you need some git commands
 6. git checkout
 
 basics! There are other useful commands - first learn this 6
+
+Hash Commit
+Every commit has it own unique hash code
